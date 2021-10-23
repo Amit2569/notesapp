@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Play store/note app/codecanyon-29610215-android-notes-app/Notes App/app/src/main/res/layout/activity_about.xml" value="0.2722222222222222" />
+        <entry key="..\:/Play store/note app/codecanyon-29610215-android-notes-app/Notes App/app/src/main/res/layout/activity_create_note.xml" value="0.20520833333333333" />
+        <entry key="..\:/Play store/note app/codecanyon-29610215-android-notes-app/Notes App/app/src/main/res/layout/activity_delete.xml" value="0.20520833333333333" />
+        <entry key="..\:/Play store/note app/codecanyon-29610215-android-notes-app/Notes App/app/src/main/res/layout/activity_main.xml" value="0.20520833333333333" />
+        <entry key="..\:/Play store/note app/codecanyon-29610215-android-notes-app/Notes App/app/src/main/res/layout/activity_privacy_policy.xml" value="0.20520833333333333" />
+        <entry key="..\:/Play store/note app/codecanyon-29610215-android-notes-app/Notes App/app/src/main/res/layout/activity_reatore_note.xml" value="0.20520833333333333" />
+        <entry key="..\:/Play store/note app/codecanyon-29610215-android-notes-app/Notes App/app/src/main/res/layout/activity_setting.xml" value="0.20520833333333333" />
+        <entry key="..\:/Play store/note app/codecanyon-29610215-android-notes-app/Notes App/app/src/main/res/layout/activity_splash.xml" value="0.25" />
+        <entry key="..\:/Play store/note app/codecanyon-29610215-android-notes-app/Notes App/app/src/main/res/layout/item_note.xml" value="0.20520833333333333" />
+        <entry key="..\:/Play store/note app/codecanyon-29610215-android-notes-app/Notes App/app/src/main/res/layout/layout_add_url.xml" value="0.20520833333333333" />
+        <entry key="..\:/Play store/note app/codecanyon-29610215-android-notes-app/Notes App/app/src/main/res/layout/layout_delete_lock.xml" value="0.20520833333333333" />
+        <entry key="..\:/Play store/note app/codecanyon-29610215-android-notes-app/Notes App/app/src/main/res/layout/layout_delete_note_move.xml" value="0.20520833333333333" />
+        <entry key="..\:/Play store/note app/codecanyon-29610215-android-notes-app/Notes App/app/src/main/res/layout/layout_export_file.xml" value="0.20520833333333333" />
+        <entry key="..\:/Play store/note app/codecanyon-29610215-android-notes-app/Notes App/app/src/main/res/layout/lockscreen.xml" value="0.20520833333333333" />
+        <entry key="..\:/Play store/note app/codecanyon-29610215-android-notes-app/Notes App/app/src/main/res/layout/main.xml" value="0.20520833333333333" />
+        <entry key="..\:/Play store/note app/codecanyon-29610215-android-notes-app/Notes App/app/src/main/res/layout/nav_header_main.xml" value="0.20520833333333333" />
+        <entry key="..\:/Play store/note app/codecanyon-29610215-android-notes-app/Notes App/app/src/main/res/layout/view_code_pf_lockscreen.xml" value="0.20520833333333333" />
+        <entry key="..\:/Play store/note app/codecanyon-29610215-android-notes-app/Notes App/app/src/main/res/layout/view_pf_code_checkbox.xml" value="0.20520833333333333" />
+        <entry key="..\:/Play store/note app/codecanyon-29610215-android-notes-app/Notes App/app/src/main/res/layout/view_pf_fingerprint_dialog_container.xml" value="0.20520833333333333" />
+        <entry key="..\:/Play store/note app/codecanyon-29610215-android-notes-app/Notes App/app/src/main/res/layout/view_pf_fingerprint_dialog_content.xml" value="0.20520833333333333" />
+        <entry key="..\:/Play store/note app/codecanyon-29610215-android-notes-app/Notes App/app/src/main/res/menu/activity_main_drawer.xml" value="0.20520833333333333" />
+        <entry key="..\:/Play store/note app/codecanyon-29610215-android-notes-app/Notes App/app/src/main/res/menu/menu_restore.xml" value="0.20520833333333333" />
+        <entry key="..\:/Play store/note app/codecanyon-29610215-android-notes-app/Notes App/app/src/main/res/menu/menu_seve.xml" value="0.20520833333333333" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
